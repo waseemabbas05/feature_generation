@@ -1,0 +1,1 @@
+template to generate features from a csv files in a way that the behaviour is deploable and extendable
